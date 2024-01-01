@@ -1,6 +1,6 @@
 FROM centos:7
 
-MAINTAINER "mahinder@gmail.com"
+MAINTAINER "mahinder1@gmail.com"
 
 #LABEL "Mahinder Singh"
 
